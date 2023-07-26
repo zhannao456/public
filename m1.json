@@ -81,14 +81,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/js/子子影视.js"
     },
     {
-      "key": "Live2Vod",
-      "name": "电视直播",
-      "type": 3,
-      "api": "csp_Live2Vod",
-      "searchable": 0,
-      "ext": "南风$https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/live.txt#饭太硬$https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/fang_tai_ying_live.txt#影视范$https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/yingshi_fang_global.m3u"
-    },
-    {
       "key": "Live2Vod2",
       "name": "电视直播(远程配置版)",
       "type": 3,
