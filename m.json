@@ -1,11 +1,11 @@
 {
   "wallpaper":"",
-  "spider":"./sub/jar/custome_spider.jar;md5;09BAF4A03D362D96F0FC14085C343191",
+  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/custom_spider.jar;md5;35b571f95d171b23fb8751f42aa29dbb",
   "lives":[
     {
       "name": "范明明",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/global.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "ua": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36"
@@ -13,7 +13,7 @@
     {
       "name": "听迪爱尚",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/aishang.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "ua": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36"
@@ -21,7 +21,7 @@
     {
       "name": "听迪百事通",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/bestv.m3u",
       "playerType": 1
     }
   ],
@@ -36,7 +36,7 @@
       "type": 3,
       "api": "csp_Live2Vod",
       "searchable": 0,
-      "ext": "南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u"
+      "ext": "南风$https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/live.txt#饭太硬$https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/fang_tai_ying_live.txt#影视范$https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/yingshi_fang_global.m3u"
     },
     {
       "key": "Live2Vod2",
@@ -44,7 +44,7 @@
       "type": 3,
       "api": "csp_Live2Vod",
       "searchable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/json/live.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/live.json"
     },
     {"key": "Yj1211", "name": "直播综合", "type": 3, "api": "csp_Yj1211", "searchable": 1},
     {"key": "如意", "name": "如意[V2]", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "ext": "http://cms.maoyingshi.cc/api.php/app/"},
@@ -53,9 +53,9 @@
       "key": "我的哔哩(js)",
       "name": "我的哔哩(js)",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/我的哔哩.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/我的哔哩.js"
     },
     {"key": "IQIYI", "name": "IQIYI", "type": 3, "api": "csp_IQIYI", "searchable": 1},
     {"key": "MGTV", "name": "MGTV", "type": 3, "api": "csp_MGTV", "searchable": 1},
@@ -63,53 +63,53 @@
       "key": "爱看(js)",
       "name": "爱看(js)",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/爱看.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/爱看.js"
     },
     {
       "key": "厂长(js)",
       "name": "厂长(js)",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/厂长资源.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/厂长资源.js"
     },
     {
       "key": "低端(js)",
       "name": "低端(js)",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/ddys.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/ddys.js"
     },
     {
       "key": "两个BT(js)",
       "name": "两个BT(js)",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/两个BT.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/两个BT.js"
     },
     {
       "key": "怡萱动漫(js)",
       "name": "怡萱动漫(js)",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/怡萱动漫.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/怡萱动漫.js"
     },
     {
       "key": "子子影视(js)",
       "name": "子子影视(js)",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/子子影视.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/子子影视.js"
     },
     {"key": "push_agent", "name": "推送(播放页链接或磁力)", "type": 3, "api": "csp_PushAgent", "searchable": 0},
-    {"key":"csp_xbb_茶杯狐","name":"茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/茶杯狐.json"},
-    {"key":"csp_xbb_蚂蚁4k","name":"蚂蚁4K","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/蚂蚁4K.json"},
+    {"key":"csp_xbb_茶杯狐","name":"茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/茶杯狐.json"},
+    {"key":"csp_xbb_蚂蚁4k","name":"蚂蚁4K","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/蚂蚁4K.json"},
     {"key":"csp_app_美剧范","name":"🐌美剧范(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"}
   ],
   "parses":[
