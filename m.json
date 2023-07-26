@@ -27,7 +27,7 @@
   ],
   "sites": [
     {"key":"csp_xbb_茶杯狐","name":"茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/茶杯狐.json"},
-    {"key":"csp_app_美剧范","name":"🐌美剧范(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"}
+    {"key":"csp_app_美剧范","name":"🐌美剧范(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
     {"key": "爱迪", "name": "爱迪", "type": 3, "api": "csp_Aidi", "searchable": 1},
     {"key": "NongMing", "name": "农民影视", "type": 3, "api": "csp_NongMing", "searchable": 1},
     {"key": "Voflix", "name": "Voflix", "type": 3, "api": "csp_Voflix", "searchable": 1, "ext": "https://www.voflix.me/"},
