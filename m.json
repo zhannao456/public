@@ -48,7 +48,6 @@
     },
     {"key": "Yj1211", "name": "直播综合", "type": 3, "api": "csp_Yj1211", "searchable": 1},
     {"key": "如意", "name": "如意[V2]", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "ext": "http://cms.maoyingshi.cc/api.php/app/"},
-    {"key": "360", "name": "360", "type": 3, "api": "csp_SP360", "searchable": 1},
     {
       "key": "我的哔哩(js)",
       "name": "我的哔哩(js)",
@@ -57,7 +56,6 @@
       "searchable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/我的哔哩.js"
     },
-    {"key": "IQIYI", "name": "IQIYI", "type": 3, "api": "csp_IQIYI", "searchable": 1},
     {"key": "MGTV", "name": "MGTV", "type": 3, "api": "csp_MGTV", "searchable": 1},
     {
       "key": "爱看(js)",
