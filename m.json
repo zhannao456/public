@@ -48,66 +48,58 @@
     },
     {"key": "Yj1211", "name": "直播综合", "type": 3, "api": "csp_Yj1211", "searchable": 1},
     {"key": "如意", "name": "如意[V2]", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "ext": "http://cms.maoyingshi.cc/api.php/app/"},
-    {
-      "key": "我的哔哩(js)",
-      "name": "我的哔哩(js)",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/drpy2.min.js",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/我的哔哩.js"
-    },
     {"key": "MGTV", "name": "MGTV", "type": 3, "api": "csp_MGTV", "searchable": 1},
     {
       "key": "爱看(js)",
       "name": "爱看(js)",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/drpy2.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/爱看.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/js/爱看.js"
     },
     {
       "key": "厂长(js)",
       "name": "厂长(js)",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/drpy2.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/厂长资源.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/js/厂长资源.js"
     },
     {
       "key": "低端(js)",
       "name": "低端(js)",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/drpy2.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/ddys.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/js/ddys.js"
     },
     {
       "key": "两个BT(js)",
       "name": "两个BT(js)",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/drpy2.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/两个BT.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/js/两个BT.js"
     },
     {
       "key": "怡萱动漫(js)",
       "name": "怡萱动漫(js)",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/drpy2.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/怡萱动漫.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/js/怡萱动漫.js"
     },
     {
       "key": "子子影视(js)",
       "name": "子子影视(js)",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/drpy2.min.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/子子影视.js"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/js/子子影视.js"
     },
     {"key": "push_agent", "name": "推送(播放页链接或磁力)", "type": 3, "api": "csp_PushAgent", "searchable": 0},
     {"key":"csp_xbb_茶杯狐","name":"茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/茶杯狐.json"},
-    {"key":"csp_xbb_蚂蚁4k","name":"蚂蚁4K","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/蚂蚁4K.json"},
+    {"key":"csp_xbb_蚂蚁4k","name":"蚂蚁4K","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/蚂蚁4K.json"},
     {"key":"csp_app_美剧范","name":"🐌美剧范(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"}
   ],
   "parses":[
