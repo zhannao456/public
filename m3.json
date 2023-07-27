@@ -27,23 +27,6 @@
   ],
   "sites": [
     {"key":"csp_xbb_茶杯狐","name":"茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/茶杯狐.json"},
-    {"key": "爱迪", "name": "爱迪", "type": 3, "api": "csp_Aidi", "searchable": 1},
-    {"key": "枫林", "name": "枫林", "type": 3, "api": "csp_Imaple", "searchable": 1},
-    {"key": "555电影", "name": "555电影", "type": 3, "api": "csp_Dy555", "searchable": 1},
-    {"key": "动漫84", "name": "动漫84", "type": 3, "api": "csp_Dm84", "searchable": 1},
-    {"key": "cokemv", "name": "cokemv", "type": 3, "api": "csp_Cokemv", "searchable": 1},
-    {"key": "飘花", "name": "飘花", "type": 3, "api": "csp_BTPiaoHua", "searchable": 1},
-    {"key": "Auete", "name": "Auete", "type": 3, "api": "csp_Auete", "searchable": 1},
-    {"key": "Anfuns动漫", "name": "Anfuns动漫", "type": 3, "api": "csp_Anfuns", "searchable": 1},
-    {"key": "剧迷", "name": "剧迷", "type": 3, "api": "csp_Jumi", "searchable": 1},
-    {"key": "蓝光影院", "name": "蓝光影院", "type": 3, "api": "csp_Lgyy", "searchable": 1},
-    {"key": "LibVIO", "name": "LibVIO", "type": 3, "api": "csp_Lib", "searchable": 1},
-    {"key": "小宝影院", "name": "小宝影院", "type": 3, "api": "csp_Xiaoh", "searchable": 1},
-    {"key": "稀饭", "name": "稀饭", "type": 3, "api": "csp_Xifanys", "searchable": 1},
-    {"key": "NongMing", "name": "农民影视", "type": 3, "api": "csp_NongMing", "searchable": 1},
-    {"key": "Voflix", "name": "Voflix", "type": 3, "api": "csp_Voflix", "searchable": 1, "ext": "https://www.voflix.me/"},
-    {"key": "哔哩兔", "name": "哔哩兔影视", "type": 3, "api": "csp_Bilituys", "searchable": 1},
-
     {
       "key": "爱迪(js)",
       "name": "爱看(js)",
