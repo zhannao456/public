@@ -1,30 +1,7 @@
 {
   "wallpaper":"",
   "spider":"https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/custom_spider.jar;md5;776d63c97bc912ea1aae5d56546a0ffa",
-  "lives":[
-    {
-      "name": "范明明",
-      "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/global.m3u",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "ua": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36"
-    },
-    {
-      "name": "听迪爱尚",
-      "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/aishang.m3u",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "ua": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36"
-    },
-    {
-      "name": "听迪百事通",
-      "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/bestv.m3u",
-      "playerType": 1
-    }
-  ],
+
   "sites": [
     {"key":"csp_xbb_茶杯狐","name":"茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/茶杯狐.json"},
     {
@@ -82,14 +59,6 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/js/子子影视.js"
-    },
-    {
-      "key": "Live2Vod2",
-      "name": "电视直播(远程配置版)",
-      "type": 3,
-      "api": "csp_Live2Vod",
-      "searchable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/live.json"
     },
     {"key": "Yj1211", "name": "直播综合", "type": 3, "api": "csp_Yj1211", "searchable": 1},
     {"key": "MGTV", "name": "MGTV", "type": 3, "api": "csp_MGTV", "searchable": 1}
