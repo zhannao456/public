@@ -3,7 +3,6 @@
   "spider":"https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/custom_spider.jar;md5;776d63c97bc912ea1aae5d56546a0ffa",
 
   "sites": [
-    {"key":"csp_xbb_茶杯狐","name":"茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/茶杯狐.json"},
     {
       "key": "爱迪(js)",
       "name": "爱看(js)",
