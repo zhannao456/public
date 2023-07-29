@@ -52,7 +52,7 @@
     {"key": "哔哩兔", "name": "哔哩兔影视", "type": 3, "api": "csp_Bilituys", "searchable": 1},
     {
         "key": "鸭奈飞",
-        "name": "爱迪(js)",
+        "name": "鸭奈飞",
         "type": 3,
         "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/libs/drpy2.min.js",
         "searchable": 1,
