@@ -45,13 +45,19 @@
     {"key": "剧迷", "name": "剧迷", "type": 3, "api": "csp_Jumi", "searchable": 1},
     {"key": "蓝光影院", "name": "蓝光影院", "type": 3, "api": "csp_Lgyy", "searchable": 1},
     {"key": "LibVIO", "name": "LibVIO", "type": 3, "api": "csp_Lib", "searchable": 1},
-    {"key": "小宝影院", "name": "小宝影院", "type": 3, "api": "csp_Xiaoh", "searchable": 1},
     {"key": "稀饭", "name": "稀饭", "type": 3, "api": "csp_Xifanys", "searchable": 1},
     {"key": "NongMing", "name": "农民影视", "type": 3, "api": "csp_NongMing", "searchable": 1},
     {"key": "Voflix", "name": "Voflix", "type": 3, "api": "csp_Voflix", "searchable": 1, "ext": "https://www.voflix.me/"},
     {"key": "Douban", "name": "豆瓣", "type": 3, "api": "csp_DoubanForTVBox", "searchable": 0},
     {"key": "哔哩兔", "name": "哔哩兔影视", "type": 3, "api": "csp_Bilituys", "searchable": 1},
-
+    {
+        "key": "鸭奈飞",
+        "name": "爱迪(js)",
+        "type": 3,
+        "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/libs/drpy2.min.js",
+        "searchable": 1,
+        "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/js/鸭奈飞[V2].js"
+    },
     {
       "key": "爱迪(js)",
       "name": "爱迪(js)",
