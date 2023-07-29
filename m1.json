@@ -55,28 +55,12 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/js/爱迪[V2].js"
     },
     {
-      "key": "爱看(js)",
-      "name": "爱看(js)",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/js/爱看.js"
-    },
-    {
       "key": "厂长(js)",
       "name": "厂长(js)",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/js/厂长资源.js"
-    },
-    {
-      "key": "低端(js)",
-      "name": "低端(js)",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/js/ddys.js"
     },
     {
       "key": "两个BT(js)",
