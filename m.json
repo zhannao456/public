@@ -34,8 +34,6 @@
       "searchable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/js/ddys.js"
     },
-    {"key":"茶杯狐","name":"茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/public/master/茶杯狐.json"},
-    {"key": "枫林", "name": "枫林", "type": 3, "api": "csp_Imaple", "searchable": 1},
     {"key": "动漫84", "name": "动漫84", "type": 3, "api": "csp_Dm84", "searchable": 1},
     {"key": "飘花", "name": "飘花", "type": 3, "api": "csp_BTPiaoHua", "searchable": 1},
     {"key": "Auete", "name": "Auete", "type": 3, "api": "csp_Auete", "searchable": 1},
