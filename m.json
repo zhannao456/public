@@ -26,14 +26,6 @@
     }
   ],
   "sites": [
-    {
-      "key": "低端(js)",
-      "name": "低端(js)",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/zhannao456/dr_py/main/js/ddys.js"
-    },
     {"key": "动漫84", "name": "动漫84", "type": 3, "api": "csp_Dm84", "searchable": 1},
     {"key": "飘花", "name": "飘花", "type": 3, "api": "csp_BTPiaoHua", "searchable": 1},
     {"key": "Auete", "name": "Auete", "type": 3, "api": "csp_Auete", "searchable": 1},
